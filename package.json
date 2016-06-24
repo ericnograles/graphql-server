@@ -4,6 +4,7 @@
   "description": "Eric's first attempt at a modest GraphQL server",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js --harmony",
     "test": "npm test"
   },
   "engine": {
