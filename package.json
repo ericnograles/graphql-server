@@ -6,6 +6,9 @@
   "scripts": {
     "test": "npm test"
   },
+  "engine": {
+    "node": "6.2.2"
+  },
   "author": "Eric Nograles",
   "license": "MIT",
   "dependencies": {
