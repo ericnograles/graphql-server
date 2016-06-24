@@ -7,7 +7,7 @@
     "start": "node app.js --harmony",
     "test": "npm test"
   },
-  "engine": {
+  "engines": {
     "node": "6.2.2"
   },
   "author": "Eric Nograles",
